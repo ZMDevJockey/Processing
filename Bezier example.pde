@@ -1,3 +1,8 @@
+/*
+[EN] Bezier simple example with a triangle.
+[IT] Semplice esempio su Bezier utilizzando un tringolo.                       ©Z Ov3rFlow
+*/
+
 String s;
 
 void setup()
