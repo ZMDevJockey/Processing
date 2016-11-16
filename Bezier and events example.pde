@@ -1,6 +1,6 @@
 /*
-[EN] Bezier simple example with a triangle.
-[IT] Semplice esempio su Bezier utilizzando un tringolo.                       ©Z Ov3rFlow
+[EN] Bezier simple example with a triangle and events.
+[IT] Semplice esempio su Bezier utilizzando un tringolo e interazione eventi.                       ©Z Ov3rFlow
 */
 
 String s;
