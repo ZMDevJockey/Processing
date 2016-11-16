@@ -1,3 +1,9 @@
+/*
+[EN] Bezier simple example with a triangle.
+[IT] Semplice esempio su Bezier con un tringolo.                       ©Z Ov3rFlow
+*/
+
+
 float x1,y1,x2,y2,x3,y3; //per bezier basta fare un altro punto
 
 void setup()
