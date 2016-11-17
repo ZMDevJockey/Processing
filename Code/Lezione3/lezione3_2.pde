@@ -1,5 +1,5 @@
 /*
-Lezione 3: Far ruotare, traslare, scalare e shear oggetti su se stessi xD
+Lezione 3.2: Far ruotare, traslare, scalare e shear oggetti su se stessi xD             ©Z Ov3rFlow
 */
 
 
