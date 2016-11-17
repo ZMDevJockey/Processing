@@ -1,5 +1,5 @@
 /*
-Class Ball
+Lezione 3.3:  Class Ball                                              ©Z Ov3rFlow
 */
 
 class Ball
@@ -45,11 +45,12 @@ class Ball
     {
       sY = -sY;
       if(posY >= height-25)
-        posY = height-25;       //Per evitare bug che mi era capitato a pong ahah xD
+        posY = height-25;       //Per evitare bug in cui gli oggetti diventano "spastici"
     }
   }
   
-  void gravity()            //Per rallentare devo sottrarre poichè le y vanno verso il basso
+  //Simula la gravità
+  void gravity()            //Per rallentare devo aumentare poichè le y vanno verso il basso
   {
     sY += 0.3;
   }
