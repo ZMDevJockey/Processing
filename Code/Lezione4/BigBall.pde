@@ -13,6 +13,6 @@ class BigBall extends Ball        // i modficiatori usarli in java.. in processi
   {
     fill(255,0,0);
     noStroke();
-    ellipse(posX,posY,25,25);
+    ellipse(posX,posY,75,75);
   }
 }
