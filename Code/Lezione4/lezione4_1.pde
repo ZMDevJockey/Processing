@@ -33,8 +33,8 @@ void draw()
 void keyPressed()
 {
   if(key == 'n' || key == 'N')
-    arr.add(new Ball(random(50,450),random(50,450),random(1,10),random(1,10));
+    arr.add(new Ball(random(50,450),random(50,450),random(1,10),random(1,10)));
 
   if(key == 'b' || key == 'B')
-    arr.add(new BigBall(random(50,450),random(50,450),random(1,10),random(1,10));
+    arr.add(new BigBall(random(50,450),random(50,450),random(1,10),random(1,10)));
 }
