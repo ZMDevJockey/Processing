@@ -1,6 +1,6 @@
 /*
 Lezione 4.1: (la classe Ball è presente nella sezione "Lezione3")
-Struttura dati ArrayList e for each                               © Z Ov3rFlow
+Struttura dati ArrayList e for each | ereditarietà con estensione di Ball                              © Z Ov3rFlow
 */
 
 ArrayList<Ball> arr;
@@ -34,4 +34,7 @@ void keyPressed()
 {
   if(key == 'n' || key == 'N')
     arr.add(new Ball(random(50,450),random(50,450),random(1,10),random(1,10));
+
+  if(key == 'b' || key == 'B')
+    arr.add(new BigBall(random(50,450),random(50,450),random(1,10),random(1,10));
 }
