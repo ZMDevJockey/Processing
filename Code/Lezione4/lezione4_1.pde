@@ -1,6 +1,6 @@
 /*
-Lezione 4.1:
-Struttura dati ArrayList e for each
+Lezione 4.1: (la classe Ball è presente nella sezione "Lezione3")
+Struttura dati ArrayList e for each                               © Z Ov3rFlow
 */
 
 ArrayList<Ball> arr;
