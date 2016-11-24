@@ -1,3 +1,4 @@
+/*
 Prova Comete                                                            © Z Ov3rFlow
 */
 
