@@ -36,6 +36,7 @@ class Cometa
     {
       sY += 0.2;
       posY += sY;
+    }
   }
   
   void kill()
