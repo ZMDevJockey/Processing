@@ -47,4 +47,35 @@ PImage imQuant(PImage I, int k)
   return R;
 }
 
-//prendere poi la versione finita con l'interattività
+void keyPressed()
+{
+  if (key=='+')
+  {
+    if (Q<256)
+    {
+      Q++;
+      qim=quantizza(image,Q);
+    }
+  }
+  
+  if (key=='-')
+  {
+    if (Q>2)
+    {
+      Q--;
+      qim=quantizza(image,Q);
+    }
+  }
+  
+  if (key=='o')
+  { 
+    Q=256;
+    qim=image.copy();
+  }
+  
+  if (key=='t')
+  { 
+    Q=2;
+    qim=quantizza(image,Q);
+  }
+}
