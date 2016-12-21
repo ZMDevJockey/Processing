@@ -77,7 +77,7 @@ PImage intRep(PImage I)
 
 int getPos(int i, int j, int w)   //ritorna la posizione
 {
-  return i*w*j;
+  return i*w+j;
 }
 
 float PSNR(PImage I1, PImage I2)
