@@ -1,5 +1,6 @@
 /*
 Lezione 7.3: Webcam                                       © Z Ov3rFlow
+P.S. E' necessario installare la libreria processing.video andando su: File -> Examples -> Add Examples -> Library -> Cerca "processing.video"
 */
 
 import processing.video.*;
@@ -12,7 +13,7 @@ void setup()
   
   String[] cameras = Capture.list();
   
-  if(cameras.lenght == 0)
+  if(cameras.length == 0)
     exit();
   else
   {
@@ -23,7 +24,7 @@ void setup()
 
 void draw()
 {
-  if(cam.avaible())
+  if(cam.available())
     cam.read();
   
   image(cam,0,0);
