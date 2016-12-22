@@ -11,8 +11,10 @@ void setup()
   background(0);
   size(640,480);
   
+  //Contiene le cam disponibili
   String[] cameras = Capture.list();
   
+  //Controllo se non vi sono cam disponibili
   if(cameras.length == 0)
     exit();
   else
