@@ -3,7 +3,7 @@ Lezione 5: "Contagocce"                                                     © Z
 */
 
 PImage im;
-String url = "indirizzoImmagine";
+//String url = "indirizzoImmagine";
 color c;
 
 void setup()
