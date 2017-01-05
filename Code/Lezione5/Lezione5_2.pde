@@ -9,7 +9,7 @@ void setup()
 {
   size(512,512);
   
-  nIm = createImage(200,200,RGB);   //o HSV scritto come HSB (brightness) ; e l'immagine di defaulr è nera
+  nIm = createImage(200,200,RGB);   //o HSV scritto come HSB (brightness) ; e l'immagine di default è nera
 
   background(255);
   image(nIm,0,0);
