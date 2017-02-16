@@ -1,5 +1,5 @@
 /*
-Lezione 3.3: Classi e oggetti                                                     ©Z Ov3rFlow
+Lezione 3.3: Classi e oggetti                                                     ©ZMDevJockey
 Modificatore di accesso in java quello di default è "default". (gli altri sono inutili perchè siamo comunque dentro la classe PApplet.. al max con private avrebbe senso qualcosa, ma evitiamo di usarlo xD)
 */
 
