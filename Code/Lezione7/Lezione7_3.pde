@@ -1,5 +1,5 @@
 /*
-Lezione 7.3: Webcam                                       © Z Ov3rFlow
+Lezione 7.3: Webcam                                       ©ZMDevJockey
 P.S. E' necessario installare la libreria processing.video andando su: File -> Examples -> Add Examples -> Library -> Cerca "processing.video"
 */
 
