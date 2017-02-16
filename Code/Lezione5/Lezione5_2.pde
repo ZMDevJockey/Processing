@@ -1,5 +1,5 @@
 /*
-Lezione 5.2: Sfumatura                                            © Z Ov3rFlow
+Lezione 5.2: Sfumatura                                            ©ZMDevJockey
 */
 
 
