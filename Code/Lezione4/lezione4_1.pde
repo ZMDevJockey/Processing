@@ -1,6 +1,6 @@
 /*
 Lezione 4.1: (la classe Ball è presente nella sezione "Lezione3")
-Struttura dati ArrayList e for each | ereditarietà con estensione di Ball                              © Z Ov3rFlow
+Struttura dati ArrayList e for each | ereditarietà con estensione di Ball                              ©ZMDevJockey
 */
 
 ArrayList<Ball> arr;
