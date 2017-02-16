@@ -1,5 +1,5 @@
 /*
-Lezione 6.1: PSNR              © Z Ov3rFlow
+Lezione 6.1: PSNR              ©ZMDevJockey
 */
 
 PImage imOr, imRes, imPro, imRep;
