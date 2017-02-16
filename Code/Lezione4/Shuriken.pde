@@ -1,5 +1,5 @@
 /*
-Classe Shuriken                                                                       © Z Ov3rFlow
+Classe Shuriken                                                                       ©ZMDevJockey
 */
 
 class Shuriken
