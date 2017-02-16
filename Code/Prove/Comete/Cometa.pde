@@ -1,5 +1,5 @@
 /*
-Classe Cometa                                                         © Z Ov3rFlow
+Classe Cometa                                                         ©ZMDevJockey
 */
 
 class Cometa
