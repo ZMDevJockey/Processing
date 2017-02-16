@@ -1,5 +1,5 @@
 /*
-Main Sketch //aggiungere vari livelli di difficolta, comet cattive e collisioni comete è.è
+Main Sketch //aggiungere vari livelli di difficolta, comet cattive e collisioni comete è.è              ©ZMDevJockey
 */
 
 float i = 1;
