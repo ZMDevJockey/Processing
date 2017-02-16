@@ -1,5 +1,5 @@
 /*
-Classe BigBall estesa da Ball                                                   © Z Ov3rFlow
+Classe BigBall estesa da Ball                                                  ©ZMDevJockey
 */
 
 class BigBall extends Ball        // i modficiatori usarli in java.. in processing tutto viene messo nella superclasse PApplet => inutili
