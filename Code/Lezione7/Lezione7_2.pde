@@ -1,5 +1,5 @@
 /*
-Lezione7.2: Stretching e equalizzazione                    © Z Ov3rFlow
+Lezione7.2: Stretching e equalizzazione                    ©ZMDevJockey
 */
 
 PImage imOr;
