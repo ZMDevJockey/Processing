@@ -1,5 +1,5 @@
 /*
-lezione 5.3: I 3 canali                                                     © Z Ov3rFlow
+lezione 5.3: I 3 canali                                                     ©ZMDevJockey
 */
 
 PImage Im, R, G, B, ImG;
