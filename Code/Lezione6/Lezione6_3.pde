@@ -1,5 +1,5 @@
 /*
-Lezione 6.3: Quantizzazione                © Z Ov3rFlow
+Lezione 6.3: Quantizzazione               ©ZMDevJockey
 */
 
 PImage imOr, imQ;
