@@ -1,6 +1,6 @@
 /*1
 Lezione 3.1: Operazioni affini - translate, shear, rotate (come punto di riferimento si considera l'origine degli assi)
-                                VANNO MESSE PRIMA DEI DISEGNI, ciò che sta prima non le subisce                   ©Z Ov3rFlow
+                                VANNO MESSE PRIMA DEI DISEGNI, ciò che sta prima non le subisce                   ©ZMDevJockey
 */
 
 //Come se fosse uno stack, le operazioni affini vengono eseguite in ordine inverso rispetto alla posizione in cui le posizioniamo nel codice
