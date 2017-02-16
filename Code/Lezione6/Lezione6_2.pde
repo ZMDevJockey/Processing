@@ -1,5 +1,5 @@
 /*
-Lezione 6.2: Rotazione, Riscalaggio, Shear (Tramite forward mapping)              © Z Ov3rFlow
+Lezione 6.2: Rotazione, Riscalaggio, Shear (Tramite forward mapping)             ©ZMDevJockey
 */
 
 PImage imOr, imRot, imS;
