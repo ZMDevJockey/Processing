@@ -1,5 +1,5 @@
 /*
-Lezione 4.2:  Shuriken                                                      © Z Ov3rFlow
+Lezione 4.2:  Shuriken                                                     ©ZMDevJockey
 */
 
 Shuriken s1;
