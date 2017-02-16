@@ -1,5 +1,5 @@
 /*
-Lezione 2.1:  Semplice esempio su Bezier con un tringolo.                       ©Z Ov3rFlow
+Lezione 2.1:  Semplice esempio su Bezier con un tringolo.                       ©ZMDevJockey
 */
 
 
