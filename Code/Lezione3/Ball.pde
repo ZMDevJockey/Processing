@@ -1,5 +1,5 @@
 /*
-Lezione 3.3:  Class Ball                                              ©Z Ov3rFlow
+Lezione 3.3:  Class Ball                                             ©ZMDevJockey
 */
 
 class Ball
