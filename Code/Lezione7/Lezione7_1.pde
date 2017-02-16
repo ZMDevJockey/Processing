@@ -1,5 +1,5 @@
 /*
-Lezione 7.1: Operatori puntuali negativo, logaritmo, gamma                    © Z Ov3rFlow
+Lezione 7.1: Operatori puntuali negativo, logaritmo, gamma                    ©ZMDevJockey
 */
 
 PImage imOr;
