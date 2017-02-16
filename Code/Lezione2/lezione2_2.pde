@@ -1,5 +1,5 @@
 /*
-Lezione 2.2:  Semplice esempio su Bezier utilizzando un tringolo e interazione eventi.                       ©Z Ov3rFlow
+Lezione 2.2:  Semplice esempio su Bezier utilizzando un tringolo e interazione eventi.                       ©ZMDevJockey
 */
 
 String s;
