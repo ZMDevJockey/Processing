@@ -1,5 +1,5 @@
 /*
-Lezione 5: "Contagocce"                                                     © Z Ov3rFlow
+Lezione 5: "Contagocce"                                                     ©ZMDevJockey
 */
 
 PImage im;
