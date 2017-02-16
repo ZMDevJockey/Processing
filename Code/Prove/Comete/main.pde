@@ -1,5 +1,5 @@
 /*
-Prova Comete                                                            © Z Ov3rFlow
+Prova Comete                                                            ©ZMDevJockey
 */
 
 ArrayList<Cometa> comete;
